@@ -1,4 +1,4 @@
-# 🏋️ Análisis de Cancelación de Clientes — Model Fitness
+# 🏋️ Análisis de Cancelación de Clientes - Model Fitness
 
 ## Descripción del Proyecto
 
